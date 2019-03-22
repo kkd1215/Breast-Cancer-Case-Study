@@ -119,11 +119,16 @@ Class distribution: 357 benign, 212 malignant
 
 **Visualization**
 
+        Visualizing the Dataset.
+    
 **Exploratory Data Analysis**
-
+        
+        Exploring the data with Seaborn and Matplotlib.
+        
 **Model Training**
-
-
+         
+        Training the model on Support Vector Classifier  
+        
 **Model Evaluation**
 
 
